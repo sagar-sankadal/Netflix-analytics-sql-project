@@ -22,7 +22,7 @@ This README outlines the project objectives, dataset information, SQL queries, s
 - Dataset Link: https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
 
 ### Schema
-``CREATE TABLE netflix
+```CREATE TABLE netflix
 (
     show_id      VARCHAR(5),
     type         VARCHAR(10),
