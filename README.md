@@ -37,6 +37,7 @@ This README outlines the project objectives, dataset information, SQL queries, s
     listed_in    VARCHAR(250),
     description  VARCHAR(550)
 );
+```
 ### Solved these 15  sql business queries
 
 1. Count the number of Movies vs TV Shows
