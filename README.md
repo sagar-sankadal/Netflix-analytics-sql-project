@@ -19,7 +19,7 @@ This README outlines the project objectives, dataset information, SQL queries, s
 ### 📂 Dataset
 
 - This analysis uses the Netflix Movies and TV Shows dataset from Kaggle.
-- Dataset Link: https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
+- Dataset Link: https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download.
 
 ### Schema
 ```CREATE TABLE netflix
